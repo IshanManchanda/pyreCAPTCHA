@@ -1,0 +1,4 @@
+numpy
+pil
+pyautogui
+python-opencv
